@@ -1,0 +1,10 @@
+# Path to dataset 
+path: ../../datasets/qr/
+train: train/
+val: val/
+test: test/
+# Number of classes
+nc: 1
+# Class names
+names:
+  0: qr
