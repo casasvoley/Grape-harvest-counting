@@ -1,0 +1,38 @@
+<annotation>
+	<folder>0</folder>
+	<filename>1597924484364.jpg</filename>
+	<path>C:\Users\A752932\OneDrive - Atos\Documents\projects\AI4EU\data\20201204 - SMR\assignOld\0\1597924484364.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2040</xmin>
+			<ymin>1125</ymin>
+			<xmax>2165</xmax>
+			<ymax>1379</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2250</xmin>
+			<ymin>1054</ymin>
+			<xmax>2325</xmax>
+			<ymax>1129</ymax>
+		</bndbox>
+	</object>
+</annotation>
